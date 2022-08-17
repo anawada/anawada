@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anawada
-- 👀 I’m studing to be a web developer 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m a Junior Full-Stack Developer 
 - 📫 You can reach me at anamitsuko@hotmail.com
 
 <!---
