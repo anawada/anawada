@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anawada
-- 👀 I’m Web Developer 
+- 👀 I’m Front End Developer 
 - 📫 You can reach me at acm.wada@gmail.com
 
 <!---
