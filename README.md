@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anawada
 - 👀 I’m Junior Front End Developer 
-- 📫 You can reach me at acm.wada@gmail.com
+- 📫 You can reach me at anamitsuko@hotmail.com
 
 <!---
 anawada/anawada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
