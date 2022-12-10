@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @anawada
-- 👀 I’m Junior Front End Developer 
+- 👀 I’m Junior FrontEnd Web Developer 
 - 📫 You can reach me at anamitsuko@hotmail.com
 
-<!---
-anawada/anawada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a repo in construction as my career, intent to show a bit of my skills as my progress in learning code and developing projects in this fascinating world of web development. 
