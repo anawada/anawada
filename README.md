@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying FrontEnd Development 🤝 I’m looking for my first job as a Developer<br>🌱 I’m currently learning JavaScript and React<br>⚡ I'm a team player, I like to always learn and challenges 
+🔭 I’m currently studying FrontEnd Development <br>🤝 I’m looking for my first job as a Developer<br>🌱 I’m currently learning JavaScript and React<br>⚡ I'm a team player, I like to always learn and challenges 
 
 
 ## 🌐 Socials:
