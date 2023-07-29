@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a FrontEnd Development <br>🤝 I’m looking for a job. <br>🌱 I’m currently working in a personal project<br>
+🔭 I’m a FrontEnd Development <br>🤝 I'm a Junior Software Engineer at Fastfwd. <br>🌱 I’m currently working in two personal projects<br>
 
 
 ## 🌐 Socials:
