@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Junior Software Engineer at Fastfwd. <br>🌱 I’m currently working in two personal projects<br>
+🔭 I'm a Full Stack Developer at Absolute Collagen. <br>🌱 I’m currently working in two personal projects<br>
 
 
 ## 🌐 Socials:
